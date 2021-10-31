@@ -11,7 +11,6 @@ public class MainApplication {
 
         System.out.println("Welcome to Twitter Bot for WhatsApp\n" +
                 "Created by: https://github.com/TuranBerlin\n" +
-                "Based from (C#): https://github.com/kaniberkali/Whatsapp-icin-Twitter-botu\n" +
                 "----------------------------------------------------------------\n" +
                 "Drivers are getting ready...");
 
